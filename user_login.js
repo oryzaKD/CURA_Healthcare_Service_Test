@@ -1,8 +1,11 @@
-
-const user_default = {
+const user_valid = {
     username: 'John Doe',
     password: 'ThisIsNotAPassword'
 }
 
-module.exports = { user_default };
-// export {adminLogin, adminLogin, superadminLogin};
+const user_invalid = {
+    username: 'invalidUser',
+    password: 'invalidPassword'
+}
+
+module.exports = { user_valid, user_invalid };
