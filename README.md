@@ -1,7 +1,7 @@
 Link Recording 
 https://drive.google.com/file/d/1DoDji9bM3zUacs7-twWe2je6fAsrEWsd/view?usp=sharing
 
-HOW TO RUNNING THE AUTOMATION TEST CODE WITH CYPRESS:
+HOW TO RUNNING THE AUTOMATION TEST CODE WITH SELENIUM WEBDRIVER:
    
 1. **Masuk ke direktori tests**
    
