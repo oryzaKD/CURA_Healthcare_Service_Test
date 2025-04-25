@@ -1,16 +1,16 @@
 Link Recording 
-https://drive.google.com/file/d/1DoDji9bM3zUacs7-twWe2je6fAsrEWsd/view?usp=sharing
+https://drive.google.com/file/d/1_jssAnJahaMzIzx2SQfzRdCjtNEiVwuc/view?usp=sharing
 
 HOW TO RUNNING THE AUTOMATION TEST CODE WITH SELENIUM WEBDRIVER:
    
-1. **Masuk ke direktori tests**
+1. **Go to the tests directory.**
    
    ```bash
    cd .\tests\
 
-2. **Lalu untuk running automation script nya**
+2. **Then, to run the automation script, use the following command:**
    
    ```bash
    npx mocha .\test_script.spec.js
    
-3. **Maka akan muncul browser chrome dengan menampilkan langkah-langkah pengetesannya secara otomatis**
+3. **After running the script, a Chrome browser will open automatically and show the testing steps being performed.**
